@@ -1,0 +1,23 @@
+{
+  "name": "large-repo",
+  "version": "1.0.0",
+  "description": "I don't have the rights to all these images, will delete once test is finished",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guywarburg/large-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guywarburg/large-repo/issues"
+  },
+  "homepage": "https://github.com/guywarburg/large-repo#readme",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "prettier": "^1.17.0"
+  }
+}
